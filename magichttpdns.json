@@ -1,0 +1,16 @@
+{
+"version":1,
+"nodes":[
+    {
+                "host":"access.magicvpn.info",
+                "ips":["149.28.189.11","74.207.227.158","45.33.111.222","45.79.193.79"],
+                "tcpPort":443,
+                "udpPort":443,
+                "region":"default"
+    },
+    {
+                "host":"proxys.magicvpn.info",
+                "proxys":"https://103.102.47.249,https://192.155.93.240,https://45.33.34.36,https://173.255.249.196,https://23.239.2.241,https://139.162.77.19"
+    }
+  ]
+}
