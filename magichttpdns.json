@@ -11,6 +11,10 @@
     {
                 "host":"proxys.magicvpn.info",
                 "proxys":"https://103.102.47.249,https://192.155.93.240,https://45.33.34.36,https://139.162.77.19"
+    },
+    {
+                "host":"HTTPRPC_PROXY_SERVERS",
+                "proxys":"https://103.102.47.249,https://192.155.93.240,https://45.33.34.36,https://139.162.77.19"
     }
   ]
 }
